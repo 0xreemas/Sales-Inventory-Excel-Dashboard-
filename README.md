@@ -1,4 +1,5 @@
 Sales & Inventory Data Analysis Dashboard 📊
+
 ​Project Overview
 ​This project features an interactive Excel dashboard designed to track sales performance and inventory levels across multiple branches. The goal was to transform raw monthly data into actionable insights.
 
