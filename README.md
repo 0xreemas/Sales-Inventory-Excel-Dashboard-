@@ -10,8 +10,13 @@ Sales & Inventory Data Analysis Dashboard 📊
 - ​Automated Data Processing: Leveraged Power Query to clean and merge monthly sales logs (Jan, Feb, Mar).
 - ​Data Visualization: Created visual trends for units sold and remaining stock using advanced Excel charting.
   
-​Files in this Repository
+## Files in this Repository
 
-​- Sales_Inventory_Dashboard.xlsx: The main dashboard file.
-​- Jan.xlsx, Feb.xlsx, Mar.xlsx: Source data files.
-- ​Sales Dashboard video.mp4: A video demo of the project.
+* Main Dashboard: Sales_Inventory_Dashboard.xlsx - The main analysis file.
+* Data Sources: Jan.xlsx, Feb.xlsx, Mar.xlsx - Monthly logs.
+* Video Demo: Sales Dashboard video.mp4 - A video demo of the project.
+
+## How to use
+1. Download all files to the same folder.
+2. Open the dashboard file.
+3. Update the data source path in Power Query to match your local folder.
